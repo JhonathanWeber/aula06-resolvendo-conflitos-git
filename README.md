@@ -9,5 +9,5 @@ adicionado linha 2 pelo editor do github
 
 adicionado linha 9 via git
 =======
-adicionado conteudo na linha 8
+adicionado conteudo na linha 8 -- mais texto
 >>>>>>> cb5f12d995e2e94900f27c2b84554b3ef4ea495a
