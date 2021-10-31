@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 # adicionado linha 2 pelo repositório local no git
 =======
-adicionado linha 2 pelo editor do github
+adicionado linha 2 pelo editor do github - mais texto
 >>>>>>> 768e1d2e124c60a2d5b71bb8b3fc06be34cb77b8
 
 <<<<<<< HEAD
