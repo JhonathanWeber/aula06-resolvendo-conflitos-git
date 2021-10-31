@@ -1,0 +1,1 @@
+adicionado novo arquivo teste1.txt pelo repositorio local no git
